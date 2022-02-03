@@ -6,7 +6,7 @@ I am also trying to improve myself in front-end technologies/fundamentals. Pleas
 * 🔭  I'm currently working on :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yigitcandonmez&repo=clone-project)](https://github.com/anuraghazra/github-readme-stats)
-* 🌱 I'm currently learning TypeScript
+* 🌱 I'm currently learning TypeScript & Redux
 * ⚙️ I use daily: `.js` , `.tsx` / `.ts` , `.css`
 * 📫 Reach me: twitter.com/ksealyen
 * ⚡️ Fun fact: Octopuses have three hearts.
