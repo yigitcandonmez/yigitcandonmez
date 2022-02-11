@@ -6,7 +6,7 @@ I am also trying to improve myself in front-end technologies/fundamentals. Pleas
 * 🔭  I'm currently working on : [Twitter Clone](https://github.com/yigitcandonmez/twitter-clone-project)
 * 🌱 I'm currently learning TypeScript & Redux
 * ⚙️ I use daily: `.js` , `.tsx` / `.ts` , `.css`
-* 📫 Reach me: linkedin.com/in/yigitcandonmez
+* 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yigitcandonmez/)
 * ⚡️ Fun fact: Octopuses have three hearts.
 <br/>
 ⭐️Languages & Tools & Stats
