@@ -5,7 +5,7 @@ I am also trying to improve myself in front-end technologies/fundamentals. Pleas
 
 * 🔭  I'm currently working on : [Quiz Time](https://github.com/yigitcandonmez/quiz-time)
 * 🌱 I'm currently learning TypeScript & Redux
-* ⚙️ I use daily: `.js` , `.tsx` / `.ts` , `.css`
+* ⚙️ I use daily: `.js` , `.tsx` / `.ts` , `.scss`
 * 📫 Reach me: [Twitter](https://twitter.com/ksealyen)
 * ⚡️ Fun fact: Octopuses have three hearts.
 <br/>
