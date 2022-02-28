@@ -3,7 +3,7 @@
 I am a Mathematics and Computer Science student at Istanbul Kultur University. 
 I am also trying to improve myself in front-end technologies/fundamentals. Please review the repositories and share your ideas with me.
 
-* 🔭  I'm currently working on : [Quiz Time](https://github.com/yigitcandonmez/quiz-time)
+* 🔭  I'm currently working on : [react-tmd-app](https://github.com/yigitcandonmez/react-tmd-app)
 * 🌱 I'm currently learning TypeScript & Redux
 * ⚙️ I use daily: `.js` , `.tsx` / `.ts` , `.scss`
 * 📫 Reach me: [Twitter](https://twitter.com/ksealyen)
