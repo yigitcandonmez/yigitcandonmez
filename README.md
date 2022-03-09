@@ -6,7 +6,7 @@ I am also trying to improve myself in front-end technologies/fundamentals. Pleas
 * 🔭  I'm currently working on : [react-tmd-app](https://github.com/yigitcandonmez/react-tmd-app-revised)
 * 🌱 I'm currently learning TypeScript & Redux
 * ⚙️ I use daily: `.js` , `.tsx` / `.ts` , `.scss`
-* 📫 Reach me: [Twitter](https://twitter.com/ksealyen)
+* 📫 Reach me: [Twitter](https://twitter.com/ksealyen) & [LinkedIn](https://www.linkedin.com/in/yigitcandonmez/)
 * ⚡️ Fun fact: Octopuses have three hearts.
 <br/>
 ⭐️Languages & Tools & Stats
